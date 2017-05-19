@@ -253,8 +253,8 @@ class ViewController: UIViewController, UITextFieldDelegate , UIImagePickerContr
         
         let chooseImage = info[UIImagePickerControllerOriginalImage] as! UIImage
         imageView.contentMode = .scaleAspectFit
-        imageView.image = imageViews
         imageViews = chooseImage
+        imageView.image = imageViews
         dismiss(animated: true, completion: nil)
     }
 }

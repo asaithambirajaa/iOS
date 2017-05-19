@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "491CFE1706CC64FB5D4C1A9F857D8714A9B77E8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "491CFE1706CC64FB5D4C1A9F857D8714A9B77E8A" : 9223372036854775807,
+    "216BAA950FCE169741294961D54955E15E9361FA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DC14D9C-E29A-4360-B47F-AF974C88D2B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "491CFE1706CC64FB5D4C1A9F857D8714A9B77E8A" : "StudentDetailApp\/",
+    "216BAA950FCE169741294961D54955E15E9361FA" : "StudentDetailApp\/StudentDetailApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StudentDetailApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StudentDetailApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asaithambirajaa\/StudentDetailApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "216BAA950FCE169741294961D54955E15E9361FA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/asaithambirajaa\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "491CFE1706CC64FB5D4C1A9F857D8714A9B77E8A"
+    }
+  ]
+}
